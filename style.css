@@ -1,6 +1,14 @@
 h1 {
-  color:#585858;
+  color:#8a8a8a;
   font-family:serif;
   font-size:300%;
   text-align: center;
+}
+
+.centerimage {
+  text-align: center;
+}
+
+body {
+  background-color:#ffd7d7;
 }

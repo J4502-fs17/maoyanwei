@@ -6,16 +6,8 @@ h1 {
   text-align: center;
 }
 
-h4 {
-  text align:center;
-}
-
-p1 {
-  text-align:center;
-}
-
-ul {
-  text-align:center;
+.centercontent {
+  text-align: center;
 }
 
 .centerimage {

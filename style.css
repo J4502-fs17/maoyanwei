@@ -12,6 +12,7 @@ h4 {
 
 p {
   text-align:center;
+  font-family: 'Lobster', cursive;
 }
 
 
@@ -29,11 +30,6 @@ ul {
 
 body {
   background-color:#ffd7d7;
-}
-
-
-.active {
-  background-color: #ffd7f7;
 }
 
 

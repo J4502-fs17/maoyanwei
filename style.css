@@ -31,7 +31,7 @@ body {
 
 #nav a:link,#nav a:visited {
   float:left;
-  display:inline;
+  display:inline-block;
   Color:#ffd7d7;
   background-color:#ffffff;
   font-weight: bold;

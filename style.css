@@ -1,3 +1,8 @@
+#container{
+  margin:0 auto;
+  width:95%;
+}
+
 h1 {
   color:#ffd7d7;
   background-color: #ffffff;
@@ -5,6 +10,7 @@ h1 {
   font-size:500%;
   text-align: center;
   font-family: 'Chewy', cursive;
+  margin-bottom: 0;
 }
 
 h4 {
@@ -34,6 +40,11 @@ ul {
 body {
   background-color:#ffd7d7;
 }
+
+/*#nav li{
+  float:left;
+  width:25%;
+}*/
 
 
 

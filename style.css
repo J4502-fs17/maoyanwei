@@ -30,6 +30,24 @@ body {
 }
 
 
+#container{
+  Width:95%;
+  background-color:#d7d7af;
+  margin: 0 auto;
+  text-align: center;
+  font-family:'Satisfy', cursive;
+  font-size:0.8em;
+}
+
+#nav li{
+  list-style-type:none;
+  margin:0 auto;
+  padding:0;
+  width:100%;
+  display:block;
+  font-family:'Satisfy', cursive;
+  }
+
 #nav a:link,#nav a:visited {
   display:inline-block;
   Color:#ffd7d7;

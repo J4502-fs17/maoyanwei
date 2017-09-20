@@ -30,6 +30,7 @@ body {
 }
 
 #nav a:link,#nav a:visited {
+  float:left;
   display:block;
   Color:#ffd7d7;
   background-color:#ffffff;

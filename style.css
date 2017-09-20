@@ -31,9 +31,8 @@ ul {
 }
 
 h4 {
-  margin:0 auto;  
+  border-spacing: 0.5rem;
 }
-
 
 .centerimage {
   text-align: center;

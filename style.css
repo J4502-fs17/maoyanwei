@@ -4,6 +4,7 @@ h1 {
   font-family:serif;
   font-size:500%;
   text-align: center;
+  font-family: 'Chewy', cursive;
 }
 
 h4 {
@@ -12,8 +13,9 @@ h4 {
 
 p {
   text-align:center;
-  font-family: 'Lobster', cursive;
+  font-family: 'Chewy', cursive;
   color: #ffffff;
+  font-size:250%;
 }
 
 

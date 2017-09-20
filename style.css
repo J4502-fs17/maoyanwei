@@ -20,9 +20,6 @@ ul {
   list-style-type: none;
 }
 
-li {
-  display:inline;
-}
 
 .centerimage {
   text-align: center;
@@ -35,7 +32,7 @@ body {
 
 
 #nav a:link,#nav a:visited {
-  display:block;
+  display:inline-block;
   Color:#ffd7d7;
   background-color:#ffffff;
   font-weight: bold;

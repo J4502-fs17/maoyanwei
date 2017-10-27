@@ -17,6 +17,11 @@ h4 {
   display: inline-block;
   flex-direction: row;
   justify-content: center;
+  flex: 1;
+}
+
+a{
+  flex:1
 }
 
 p {
@@ -36,9 +41,9 @@ h4 {
   line-height: 0.4rem;
 }
 
-.centerimage {
-  float: right;
-  border: 0;
+#centerimage{
+  display: flex;
+  flex:1;
 }
 
 body {

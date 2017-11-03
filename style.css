@@ -33,9 +33,9 @@ ul {
   list-style-type: none;
 }
 
-h4 {
+/*h4 {
   line-height: 2rem;
-}
+}*/
 
 .centerimage {
   float: right;
@@ -71,6 +71,12 @@ body {
 
 #nav{
   padding:0;
+}
+
+.bodytext {
+  font-family: 'Gudea', sans-serif;
+  color: black;
+  font-size:100%;
 }
 
 #footer {

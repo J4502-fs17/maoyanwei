@@ -20,7 +20,7 @@ h1 {
 }*/
 
 
-p {
+#joke {
   text-align:center;
   font-family: 'Gudea', sans-serif;
   color: #ffffff;
@@ -120,7 +120,47 @@ body {
       flex-grow: 2;
     }
 .content{
-  flex-flow:row nowrap;
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap:20px;
+  grid-template-areas:
+  "e a"
+  "b c"
+  "d d";
+
 }
+
+.bodytext1{
+  grid-area:a;
+}
+
+.bodytext2{
+  grid-area:b;
+}
+
+.bodytext3{
+  grid-area:c;
+}
+
+.bodytext4{
+  grid-area:d;
+}
+
+.centerimage{
+  grid-area:e;
+}
+
+  }
+
+@media screen and (min-width:1000px){
+
+    .content{
+      display:grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-gap:20px;
+      grid-template-areas:
+      "e a b"
+      "c d .";
+    }
 
   }
